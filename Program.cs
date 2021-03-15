@@ -42,17 +42,17 @@ namespace pawn
 
         static void Main(string[] args)
         {
-            string value = string.Empty;
+            string permutationtext = string.Empty;
 
             if (args.Length == 0)
-                value = "12345";
+                permutationtext = "123456789";
             else
-                value = args[0];
+                permutationtext = args[0];
 
             Stopwatch sw = new Stopwatch();
             sw.Start();
 
-            GetPermutations(value.ToCharArray());
+            GetPermutations(permutationtext.ToCharArray());
             sw.Stop();
 
             TimeSpan ts = sw.Elapsed;
