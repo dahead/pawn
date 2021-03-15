@@ -1,0 +1,11 @@
+/home/dh/dev/csharp/pawn/bin/Debug/netcoreapp3.1/pawn
+/home/dh/dev/csharp/pawn/bin/Debug/netcoreapp3.1/pawn.deps.json
+/home/dh/dev/csharp/pawn/bin/Debug/netcoreapp3.1/pawn.runtimeconfig.json
+/home/dh/dev/csharp/pawn/bin/Debug/netcoreapp3.1/pawn.runtimeconfig.dev.json
+/home/dh/dev/csharp/pawn/bin/Debug/netcoreapp3.1/pawn.dll
+/home/dh/dev/csharp/pawn/bin/Debug/netcoreapp3.1/pawn.pdb
+/home/dh/dev/csharp/pawn/obj/Debug/netcoreapp3.1/pawn.csprojAssemblyReference.cache
+/home/dh/dev/csharp/pawn/obj/Debug/netcoreapp3.1/pawn.AssemblyInfoInputs.cache
+/home/dh/dev/csharp/pawn/obj/Debug/netcoreapp3.1/pawn.AssemblyInfo.cs
+/home/dh/dev/csharp/pawn/obj/Debug/netcoreapp3.1/pawn.dll
+/home/dh/dev/csharp/pawn/obj/Debug/netcoreapp3.1/pawn.pdb
