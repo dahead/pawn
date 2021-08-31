@@ -1,4 +1,4 @@
 # pawn
 Permutations
 
-Simple C# permutations app with a lot of stolen code from the internet.
+Simple C# CLI permutations app with a lot of stolen code from the internet.
